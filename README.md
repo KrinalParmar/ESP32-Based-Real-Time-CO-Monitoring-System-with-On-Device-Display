@@ -17,7 +17,8 @@ Real-time CO₂ monitoring system using the ESP32-S3-Touch-LCD-1.69 and Sensirio
 - [Waveshare ESP32-S3-Touch-LCD-1.69](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-1.69) 
 - [Sensirion SCD41 CO₂ sensor](https://www.sensirion.com/en/environmental-sensors/carbon-dioxide-sensors-gas-sensors/co2-sensors/)
 
-## Project Demo
+## Project Display
 
-![Device Display](image/Final.jpg)
+<img src="image/Final.jpg" width="300" />
+
 
