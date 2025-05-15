@@ -7,8 +7,7 @@ Real-time CO₂ monitoring system using the ESP32-S3-Touch-LCD-1.69 and Sensirio
 - Real-time sensing of CO₂, temperature, and humidity using the SCD41 sensor  
 - Offline operation — no Wi-Fi or cloud connectivity required  
 - On-device display with a 1.69" touch LCD (240×280 pixels, 262K colors)  
-- Custom GUI developed with [SquareLine Studio](https://squareline.io) for intuitive visualization  
-- Color-coded air quality indicators for quick status checks  
+- Custom GUI developed with [SquareLine Studio](https://squareline.io) for intuitive visualization 
 - Uses I²C communication for sensor interfacing  
 
 ---
