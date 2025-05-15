@@ -19,5 +19,5 @@ Real-time CO₂ monitoring system using the ESP32-S3-Touch-LCD-1.69 and Sensirio
 
 ## Project Demo
 
-![Device Display](images/Final.jpg)
+![Device Display](image/Final.jpg)
 
